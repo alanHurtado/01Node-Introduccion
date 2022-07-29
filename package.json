@@ -1,0 +1,26 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Fundamentos Node primera aplicación y ejercicios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanHurtado/01Node-Introduccion.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Alan Astorga Hurtado+",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanHurtado/01Node-Introduccion/issues"
+  },
+  "homepage": "https://github.com/alanHurtado/01Node-Introduccion#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
