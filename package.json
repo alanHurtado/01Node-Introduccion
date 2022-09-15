@@ -21,6 +21,8 @@
   "homepage": "https://github.com/alanHurtado/01Node-Introduccion#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^9.0.0",
     "yargs": "^17.5.1"
   }
 }
